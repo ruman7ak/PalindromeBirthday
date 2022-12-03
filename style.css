@@ -1,0 +1,21 @@
+main{
+    text-align: center;
+}
+
+#output-info{
+    text-align: center;
+    padding: 2rem;  
+}
+#output-info2{
+    text-align: center;
+    padding: 2rem;
+}
+
+body{
+    border: 1px solid;
+   
+    box-sizing: border-box;
+    height: 96vh;
+    background-color: rgb(29, 35, 51);
+    color: white;
+}
