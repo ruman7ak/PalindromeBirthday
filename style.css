@@ -19,3 +19,26 @@ body{
     background-color: rgb(29, 35, 51);
     color: white;
 }
+
+.footer{
+    padding: 2rem;
+    text-align: center;
+    color: aliceblue;
+    margin-top: 10rem;
+    background-color: cadetblue;
+}
+
+.footer-heading{
+    margin-left: 2.3rem;
+}
+
+.footer .link{
+    color:aliceblue;
+    text-decoration: dotted;
+}
+
+.inline-bullet-lists{
+    display: inline;
+    padding: 0rem 0.5rem;
+    text-decoration: none;
+}
