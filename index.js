@@ -198,7 +198,7 @@ function reverseStr(str) {
       }
 
     if(palindromeAllFormats(date)){
-        console.log("Yayyyy!! Your birthday is Palindrome");
+        output.innerText="Yayyyy!! Your birthday is Palindrome";
     }else{
         var [count,nextDate]= getNextPalindrome(date);
         var [count2, nextDate2]=getPreviousPalindrome(date);
